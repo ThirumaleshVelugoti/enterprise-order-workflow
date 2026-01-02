@@ -22,3 +22,7 @@ microservices and React to demonstrate scalable, secure backend-heavy full stack
 
 ## Status
 Project initialization in progress.
+
+## Package Naming:
+All services follow domain-based package naming (com.eowm.*)
+to simulate real-world enterprise product development.
